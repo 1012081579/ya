@@ -1,0 +1,56 @@
+p{    
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+.text1{
+    margin: 0px;
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    font-family: 'Dancing Script', cursive;;
+    color: white
+}
+
+h3{
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Bitter', serif;
+    font-family: 'Dancing Script', cursive;;
+    color: white
+}
+
+#fish1{
+    background-image: url(./img/fish1.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.btn a{
+
+    position: absolute;
+    top: 560px;
+    left: 48%;
+    text-decoration: none;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 20px;
+    width: 70px;
+    height: 70px;
+    display: block;
+    text-align: center;
+    border-radius: 500px;
+    border: 2px solid #ffffff;
+}
+
+.btn a:hover{
+    text-decoration: none;
+    background-color: #000000;
+    color: #ffffff;
+}
